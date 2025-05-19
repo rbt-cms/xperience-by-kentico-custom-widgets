@@ -1,0 +1,49 @@
+﻿@model Kentico.Xperience.Custom.Widgets.Repeater.RepeaterViewModel
+@{
+    var i = 1;
+}
+@if (!String.IsNullOrEmpty(Model.HtmlBefore))
+{
+    @Html.Raw(Model.HtmlBefore)
+}
+<div class="articles-page">
+    <div class="articles-section">
+        <div class="row">
+            @foreach (var article in Model.PageTypeData)
+            {
+                var lastInRow = "";
+                if (i % 4 == 0)
+                {
+                    lastInRow = "last";
+                }
+
+                <div class="col-xs-12 col-md-3 article-tile article-tile-small @lastInRow">
+                    <div class="article-tile-inner">
+                      
+                        <div class="article-tile-info">                            
+                            <div class="article-tile-content">
+                                <h2 class="h4">
+                                    <a href="@article["ArticleTitle"]">
+                                        @article["ArticleTitle"]
+                                    </a>
+                                </h2>                                
+                                <p class="article-tile-text">
+                                    @article["ArticlePageSummary"]
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                if (i % 4 == 0)
+                {
+                    <div class="clear"></div>
+                }
+                i++;
+            }
+        </div>
+    </div>
+</div>
+@if (!String.IsNullOrEmpty(Model.HtmlAfter))
+{
+    @Html.Raw(Model.HtmlAfter)
+}

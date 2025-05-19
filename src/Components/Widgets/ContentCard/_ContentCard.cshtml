@@ -1,0 +1,63 @@
+﻿@model Kentico.Xperience.Custom.Widgets.Components.Widgets.ContentCard.ContentCardWidgetViewModel
+
+@if (Model != null && Model.IsVisible)
+{
+    <div class="@Model.ContentCardCssClass">
+
+        @if (!string.IsNullOrEmpty(Model?.ContentBefore))
+        {
+            <div style="margin-bottom: 10px;">@Html.Raw(Model.ContentBefore)</div>
+        }
+
+        @if (!string.IsNullOrEmpty(Model?.ContentCardImage))
+        {
+            var widthAttr = !string.IsNullOrEmpty(Model.ContentCardImageWidth) ? $"width={Model.ContentCardImageWidth}" : "";
+            var heightAttr = !string.IsNullOrEmpty(Model.ContentCardImageHeight) ? $"height={Model.ContentCardImageHeight}" : "";
+            var cssClass = !string.IsNullOrEmpty(Model.ContentCardImageCssClass) ? $"class={Model.ContentCardImageCssClass}" : "";
+
+            @if (!string.IsNullOrEmpty(Model?.ContentCardRedirectUrl))
+            {
+                <a href="@Model.ContentCardRedirectUrl">
+                    <div>
+                        <img src="@Model.ContentCardImage" alt="@Model.ContentCardImage" @widthAttr @heightAttr @cssClass />
+                    </div>
+
+                    <div>
+                        @if (!string.IsNullOrEmpty(Model?.ContentCardTitle))
+                        {
+                            <h3>@Html.Raw(Model.ContentCardTitle)</h3>
+                        }
+
+                        @if (!string.IsNullOrEmpty(Model?.ContentCardDescription))
+                        {
+                            <p>@Html.Raw(Model.ContentCardDescription)</p>
+                        }
+                    </div>
+                </a>
+            }
+            else
+            {
+                <div>
+                    <img src="@Model.ContentCardImage" alt="@Model.ContentCardImage" @widthAttr @heightAttr @cssClass />
+                </div>
+
+                <div>
+                    @if (!string.IsNullOrEmpty(Model?.ContentCardTitle))
+                    {
+                        <h3>@Html.Raw(Model.ContentCardTitle)</h3>
+                    }
+
+                    @if (!string.IsNullOrEmpty(Model?.ContentCardDescription))
+                    {
+                        <p>@Html.Raw(Model.ContentCardDescription)</p>
+                    }
+                </div>
+            }
+        }
+
+        @if (!string.IsNullOrEmpty(Model?.ContentAfter))
+        {
+            <div>@Html.Raw(Model.ContentAfter)</div>
+        }
+    </div>
+}

@@ -1,0 +1,33 @@
+@model Kentico.Xperience.Custom.Widgets.EditableImage.EditableImageWidgetViewModel
+
+@if (Model != null && Model.IsVisible)
+{
+    if (!string.IsNullOrEmpty(Model.ContentBefore))
+    {
+            @Html.Raw(Model.ContentBefore)
+    }
+
+    if (!string.IsNullOrEmpty(Model.Image))
+    {
+        var widthAttr = !string.IsNullOrEmpty(Model.Width) ? $"width={Model.Width}" : "";
+        var heightAttr = !string.IsNullOrEmpty(Model.Height) ? $"height={Model.Height}" : "";
+        var cssClass = !string.IsNullOrEmpty(Model.ImageCssClass) ? $"class={Model.ImageCssClass}" : "";
+        var altText = !string.IsNullOrEmpty(Model.ImageAltText) ? Model.ImageAltText : "Image";
+
+        if (!string.IsNullOrEmpty(Model.RedirectUrl))
+        {
+            <a href="@Model.RedirectUrl" target="_blank">
+                <img src="@Model.Image" alt="@altText" @widthAttr @heightAttr @cssClass />
+            </a>
+        }
+        else
+        {
+            <img src="@Model.Image" alt="@altText" @widthAttr @heightAttr @cssClass />
+        }
+    }
+
+    if (!string.IsNullOrEmpty(Model.ContentAfter))
+    {
+            @Html.Raw(Model.ContentAfter)
+    }
+}

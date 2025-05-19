@@ -1,0 +1,38 @@
+﻿@model Kentico.Xperience.Custom.Widgets.YouTubeVideo.YouTubeVideoWidgetViewModel
+
+
+@{
+    string VideoURL = null;
+    string autoPlayValidation = @Model.IsAutoPlay ? "autoplay; encrypted-media" : null;
+    string fullscreenValidation = @Model.IsFullScreen ? "fullscreen" : null;
+    string allowValue = string.Join("; ", new[] { autoPlayValidation, fullscreenValidation }.Where(v => !string.IsNullOrEmpty(v)));
+    if (!string.IsNullOrEmpty(Model.VideoURL))
+    {
+        VideoURL = string.Format("{0}{1}{2}",
+            Model.VideoURL,
+            Model.VideoURL.Contains("?") ? "&" : "?",
+            Model.VideoParameters?.TrimStart('&') ?? string.Empty
+        );
+    }
+}
+
+@if (!string.IsNullOrEmpty(VideoURL) && Model.IsVisible)
+{
+    @if (Model.ContentBefore != null)
+    {
+        @Html.Raw(Model.ContentBefore)
+    }
+    <iframe type="text/html"
+    @(string.IsNullOrEmpty(fullscreenValidation) ? "" : $"allow={fullscreenValidation}")
+            width="@Model.Width"
+            height="@Model.Height"
+            src="@VideoURL"
+            title=@Model.VideoTitile>
+    </iframe>
+
+    @if (Model.ContentAfter != null)
+    {
+        @Html.Raw(Model.ContentAfter)
+    }
+}
+

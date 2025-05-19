@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Kentico.Xperience.Custom.Widgets.props" />
+</Project>

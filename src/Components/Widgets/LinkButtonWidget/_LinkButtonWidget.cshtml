@@ -1,0 +1,13 @@
+﻿@using RBT.Kentico.Xperience.Custom.Widgets.LinkButton
+@model LinkButtonWidgetViewModel
+
+@if (Model.ContentBefore !=null)
+{
+    @Html.Raw(Model.ContentBefore)
+}
+<a href="@Model.LinkButtonPageURL" target="@Model.LinkButtonTarget" class="@Model.LinkButtonColor @Model.LinkButtonTextColor" role="button">@Model.LinkButtonText</a>
+@if (Model.ContentAfter != null)
+{
+    @Html.Raw(Model.ContentAfter)
+}
+
