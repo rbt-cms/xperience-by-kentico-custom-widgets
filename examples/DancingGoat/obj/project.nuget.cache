@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bj4eEm7ju2g=",
+  "dgSpecHash": "pvPUhiBXBMc=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\XBYKPlugIn\\DancingGoatWebsite.csproj",
+  "projectFilePath": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\DancingGoatWebsite.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vasu\\.nuget\\packages\\anglesharp\\0.17.1\\anglesharp.0.17.1.nupkg.sha512",
     "C:\\Users\\Vasu\\.nuget\\packages\\anglesharp.css\\0.17.0\\anglesharp.css.0.17.0.nupkg.sha512",

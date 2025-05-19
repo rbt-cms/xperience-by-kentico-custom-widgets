@@ -8454,11 +8454,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\XBYK\\CustomWidgets\\AllWidgets\\Kentico.Xperience.Custom.Widgets.csproj",
+      "projectUniqueName": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\src\\Kentico.Xperience.Custom.Widgets.csproj",
       "projectName": "Kentico.Xperience.Custom.Widgets",
-      "projectPath": "D:\\Projects\\XBYK\\CustomWidgets\\AllWidgets\\Kentico.Xperience.Custom.Widgets.csproj",
+      "projectPath": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\src\\Kentico.Xperience.Custom.Widgets.csproj",
       "packagesPath": "C:\\Users\\Vasu\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\XBYK\\CustomWidgets\\AllWidgets\\obj\\",
+      "outputPath": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\src\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

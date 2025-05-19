@@ -7,7 +7,7 @@
     <authors>Ray Business Technologies Pvt Ltd</authors>
     <description>It displays map obtained from the Google maps service using Latitude,Longitude and Google API Key.</description>
     <copyright>Ray Business Technologies</copyright>
-    <repository type="git" />
+    <repository type="git" commit="ffd80a8e6835ba92cd6122217474d3826c2aee97" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="Kentico.Xperience.Admin" version="29.4.0" exclude="Build,Analyzers" />
@@ -22,7 +22,7 @@
     </frameworkReferences>
   </metadata>
   <files>
-    <file src="D:\Projects\XBYK\CustomWidgets\AllWidgets\bin\Debug\net8.0\Kentico.Xperience.Custom.Widgets.dll" target="lib\net8.0\Kentico.Xperience.Custom.Widgets.dll" />
-    <file src="D:\Projects\XBYK\CustomWidgets\AllWidgets\LICENSE" target="\LICENSE" />
+    <file src="D:\Projects\XBYK\CustomWidgets\xperience-by-kentico-custom-widgets\src\bin\Debug\net8.0\Kentico.Xperience.Custom.Widgets.dll" target="lib\net8.0\Kentico.Xperience.Custom.Widgets.dll" />
+    <file src="D:\Projects\XBYK\CustomWidgets\xperience-by-kentico-custom-widgets\src\LICENSE" target="\LICENSE" />
   </files>
 </package>

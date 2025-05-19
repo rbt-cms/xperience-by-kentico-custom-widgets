@@ -9,209 +9,209 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DancingGoat
 build_property.RootNamespace = DancingGoat
-build_property.ProjectDir = D:\Projects\XBYKPlugIn\
+build_property.ProjectDir = D:\Projects\XBYK\CustomWidgets\xperience-by-kentico-custom-widgets\examples\DancingGoat\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Projects\XBYKPlugIn
+build_property.MSBuildProjectDirectory = D:\Projects\XBYK\CustomWidgets\xperience-by-kentico-custom-widgets\examples\DancingGoat
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/Projects/XBYKPlugIn/Components/FormSections/TitledSection/_TitledSection.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Components/FormSections/TitledSection/_TitledSection.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xGb3JtU2VjdGlvbnNcVGl0bGVkU2VjdGlvblxfVGl0bGVkU2VjdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Components/InlineEditors/ColorPickerEditor/_ColorPickerEditor.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Components/InlineEditors/ColorPickerEditor/_ColorPickerEditor.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbmxpbmVFZGl0b3JzXENvbG9yUGlja2VyRWRpdG9yXF9Db2xvclBpY2tlckVkaXRvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Components/InlineEditors/TextEditor/_TextEditor.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Components/InlineEditors/TextEditor/_TextEditor.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbmxpbmVFZGl0b3JzXFRleHRFZGl0b3JcX1RleHRFZGl0b3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Components/Sections/ThreeColumnSection/_DancingGoat_ThreeColumnSection.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Components/Sections/ThreeColumnSection/_DancingGoat_ThreeColumnSection.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZWN0aW9uc1xUaHJlZUNvbHVtblNlY3Rpb25cX0RhbmNpbmdHb2F0X1RocmVlQ29sdW1uU2VjdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Components/Sections/_DancingGoat_Section_25_75.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Components/Sections/_DancingGoat_Section_25_75.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZWN0aW9uc1xfRGFuY2luZ0dvYXRfU2VjdGlvbl8yNV83NS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Components/Sections/_DancingGoat_Section_75_25.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Components/Sections/_DancingGoat_Section_75_25.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZWN0aW9uc1xfRGFuY2luZ0dvYXRfU2VjdGlvbl83NV8yNS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Components/Sections/_DancingGoat_SingleColumnSection.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Components/Sections/_DancingGoat_SingleColumnSection.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZWN0aW9uc1xfRGFuY2luZ0dvYXRfU2luZ2xlQ29sdW1uU2VjdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Components/Sections/_DancingGoat_TwoColumnSection.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Components/Sections/_DancingGoat_TwoColumnSection.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZWN0aW9uc1xfRGFuY2luZ0dvYXRfVHdvQ29sdW1uU2VjdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Components/ViewComponents/Articles/Default.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Components/ViewComponents/Articles/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xWaWV3Q29tcG9uZW50c1xBcnRpY2xlc1xEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Components/ViewComponents/Banner/Default.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Components/ViewComponents/Banner/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xWaWV3Q29tcG9uZW50c1xCYW5uZXJcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Components/ViewComponents/CafeCardSection/Default.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Components/ViewComponents/CafeCardSection/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xWaWV3Q29tcG9uZW50c1xDYWZlQ2FyZFNlY3Rpb25cRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Components/ViewComponents/Cafe/Default.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Components/ViewComponents/Cafe/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xWaWV3Q29tcG9uZW50c1xDYWZlXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Components/ViewComponents/CompanyAddress/Default.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Components/ViewComponents/CompanyAddress/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xWaWV3Q29tcG9uZW50c1xDb21wYW55QWRkcmVzc1xEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Components/ViewComponents/NavigationMenu/Default.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Components/ViewComponents/NavigationMenu/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xWaWV3Q29tcG9uZW50c1xOYXZpZ2F0aW9uTWVudVxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Components/ViewComponents/SocialLinks/Default.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Components/ViewComponents/SocialLinks/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xWaWV3Q29tcG9uZW50c1xTb2NpYWxMaW5rc1xEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Components/ViewComponents/TrackingConsent/Default.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Components/ViewComponents/TrackingConsent/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xWaWV3Q29tcG9uZW50c1xUcmFja2luZ0NvbnNlbnRcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Components/Widgets/CardWidget/_CardWidget.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Components/Widgets/CardWidget/_CardWidget.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xXaWRnZXRzXENhcmRXaWRnZXRcX0NhcmRXaWRnZXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Components/Widgets/CTAButton/_DancingGoat_General_CTAButtonWidget.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Components/Widgets/CTAButton/_DancingGoat_General_CTAButtonWidget.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xXaWRnZXRzXENUQUJ1dHRvblxfRGFuY2luZ0dvYXRfR2VuZXJhbF9DVEFCdXR0b25XaWRnZXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Components/Widgets/HeroImageWidget/_HeroImageWidget.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Components/Widgets/HeroImageWidget/_HeroImageWidget.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xXaWRnZXRzXEhlcm9JbWFnZVdpZGdldFxfSGVyb0ltYWdlV2lkZ2V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Components/Widgets/ProductCardWidget/_ProductCardWidget.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Components/Widgets/ProductCardWidget/_ProductCardWidget.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xXaWRnZXRzXFByb2R1Y3RDYXJkV2lkZ2V0XF9Qcm9kdWN0Q2FyZFdpZGdldC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Components/Widgets/TestimonialWidget/_DancingGoat_LandingPage_TestimonialWidget.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Components/Widgets/TestimonialWidget/_DancingGoat_LandingPage_TestimonialWidget.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xXaWRnZXRzXFRlc3RpbW9uaWFsV2lkZ2V0XF9EYW5jaW5nR29hdF9MYW5kaW5nUGFnZV9UZXN0aW1vbmlhbFdpZGdldC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Components/_ViewImports.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Components/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/PageTemplates/Article/_Article.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/PageTemplates/Article/_Article.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZVRlbXBsYXRlc1xBcnRpY2xlXF9BcnRpY2xlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/PageTemplates/Article/_ArticleWithSidebar.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/PageTemplates/Article/_ArticleWithSidebar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZVRlbXBsYXRlc1xBcnRpY2xlXF9BcnRpY2xlV2l0aFNpZGViYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/PageTemplates/LandingPage/_DancingGoat_LandingPageSingleColumn.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/PageTemplates/LandingPage/_DancingGoat_LandingPageSingleColumn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZVRlbXBsYXRlc1xMYW5kaW5nUGFnZVxfRGFuY2luZ0dvYXRfTGFuZGluZ1BhZ2VTaW5nbGVDb2x1bW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/PageTemplates/_ViewImports.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/PageTemplates/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZVRlbXBsYXRlc1xfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Views/Account/Login.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Views/Account/Register.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Views/DancingGoatArticle/Index.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Views/DancingGoatArticle/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuY2luZ0dvYXRBcnRpY2xlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Views/DancingGoatArticle/RelatedArticles.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Views/DancingGoatArticle/RelatedArticles.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuY2luZ0dvYXRBcnRpY2xlXFJlbGF0ZWRBcnRpY2xlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Views/DancingGoatCoffee/Detail.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Views/DancingGoatCoffee/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuY2luZ0dvYXRDb2ZmZWVcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Views/DancingGoatConfirmation/Index.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Views/DancingGoatConfirmation/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuY2luZ0dvYXRDb25maXJtYXRpb25cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Views/DancingGoatContacts/Index.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Views/DancingGoatContacts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuY2luZ0dvYXRDb250YWN0c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Views/DancingGoatGrinder/Detail.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Views/DancingGoatGrinder/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuY2luZ0dvYXRHcmluZGVyXERldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Views/DancingGoatHome/Index.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Views/DancingGoatHome/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuY2luZ0dvYXRIb21lXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Views/DancingGoatPrivacy/Index.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Views/DancingGoatPrivacy/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuY2luZ0dvYXRQcml2YWN5XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Views/DancingGoatProduct/Filter.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Views/DancingGoatProduct/Filter.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuY2luZ0dvYXRQcm9kdWN0XEZpbHRlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Views/DancingGoatProduct/Index.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Views/DancingGoatProduct/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuY2luZ0dvYXRQcm9kdWN0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Views/DancingGoatProduct/ProductsList.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Views/DancingGoatProduct/ProductsList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuY2luZ0dvYXRQcm9kdWN0XFByb2R1Y3RzTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Views/HttpErrors/NotFound.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Views/HttpErrors/NotFound.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSHR0cEVycm9yc1xOb3RGb3VuZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Views/Shared/DisplayTemplates/ProductListItem.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Views/Shared/DisplayTemplates/ProductListItem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERpc3BsYXlUZW1wbGF0ZXNcUHJvZHVjdExpc3RJdGVtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Views/Shared/EditorTemplates/TagViewModel.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Views/Shared/EditorTemplates/TagViewModel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVkaXRvclRlbXBsYXRlc1xUYWdWaWV3TW9kZWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Views/Shared/_DancingGoatLayout.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Views/Shared/_DancingGoatLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EYW5jaW5nR29hdExheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Views/Shared/_Event.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Views/Shared/_Event.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9FdmVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Views/Shared/_LandingPageLayout.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Views/Shared/_LandingPageLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYW5kaW5nUGFnZUxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Views/Shared/_Layout.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Views/Shared/_Reference.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Views/Shared/_Reference.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9SZWZlcmVuY2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Views/_ViewImports.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/XBYKPlugIn/Views/_ViewStart.cshtml]
+[D:/Projects/XBYK/CustomWidgets/xperience-by-kentico-custom-widgets/examples/DancingGoat/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

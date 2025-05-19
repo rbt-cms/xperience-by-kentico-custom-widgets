@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "W4NhCweJxHomiczALa1nzRIYV0Cdv4hZXSsEojiu/3w=",
+  "Hash": "QpIvXwSiia0ROBrTAaat06grDHoVcA8DpWAGbXSofx8=",
   "Source": "DancingGoatWebsite",
   "BasePath": "_content/DancingGoatWebsite",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "DancingGoatWebsite\\wwwroot",
       "Source": "DancingGoatWebsite",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "Pattern": "**"
     }
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "C:\\Users\\Vasu\\.nuget\\packages\\kentico.xperience.webapp\\29.6.0\\staticwebassets\\Scripts\\jquery-3.5.1.js"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Bundles\\Admin\\pageComponents.css",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Bundles\\Admin\\pageComponents.css",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Bundles/Admin/pageComponents#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Bundles\\Admin\\pageComponents.css"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Bundles\\Admin\\pageComponents.js",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Bundles\\Admin\\pageComponents.js",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Bundles/Admin/pageComponents#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Bundles\\Admin\\pageComponents.js"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Bundles\\Admin\\pageComponents.min.css",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Bundles\\Admin\\pageComponents.min.css",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Bundles/Admin/pageComponents.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Bundles\\Admin\\pageComponents.min.css"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Bundles\\Admin\\pageComponents.min.js",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Bundles\\Admin\\pageComponents.min.js",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Bundles/Admin/pageComponents.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Bundles\\Admin\\pageComponents.min.js"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Bundles\\Public\\pageComponents.css",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Bundles\\Public\\pageComponents.css",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Bundles/Public/pageComponents#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Bundles\\Public\\pageComponents.css"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Bundles\\Public\\pageComponents.js",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Bundles\\Public\\pageComponents.js",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Bundles/Public/pageComponents#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Bundles\\Public\\pageComponents.js"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Bundles\\Public\\pageComponents.min.css",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Bundles\\Public\\pageComponents.min.css",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Bundles/Public/pageComponents.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Bundles\\Public\\pageComponents.min.css"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Bundles\\Public\\pageComponents.min.js",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Bundles\\Public\\pageComponents.min.js",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Bundles/Public/pageComponents.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Bundles\\Public\\pageComponents.min.js"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\Core-icons.eot",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\Core-icons.eot",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Fonts/Core-icons#[.{fingerprint}]?.eot",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Fonts\\Core-icons.eot"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\Core-icons.svg",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\Core-icons.svg",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Fonts/Core-icons#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Fonts\\Core-icons.svg"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\Core-icons.ttf",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\Core-icons.ttf",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Fonts/Core-icons#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Fonts\\Core-icons.ttf"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\Core-icons.woff",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\Core-icons.woff",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Fonts/Core-icons#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Fonts\\Core-icons.woff"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Bold.woff",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Bold.woff",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Fonts/GT-Walsheim-Bold#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Fonts\\GT-Walsheim-Bold.woff"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Bold.woff2",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Bold.woff2",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Fonts/GT-Walsheim-Bold#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Fonts\\GT-Walsheim-Bold.woff2"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Light.woff",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Light.woff",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Fonts/GT-Walsheim-Light#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Fonts\\GT-Walsheim-Light.woff"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Light.woff2",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Light.woff2",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Fonts/GT-Walsheim-Light#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Fonts\\GT-Walsheim-Light.woff2"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Medium.woff",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Medium.woff",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Fonts/GT-Walsheim-Medium#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Fonts\\GT-Walsheim-Medium.woff"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Medium.woff2",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Medium.woff2",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Fonts/GT-Walsheim-Medium#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Fonts\\GT-Walsheim-Medium.woff2"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Regular.woff",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Regular.woff",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Fonts/GT-Walsheim-Regular#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Fonts\\GT-Walsheim-Regular.woff"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Regular.woff2",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Regular.woff2",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Fonts/GT-Walsheim-Regular#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Fonts\\GT-Walsheim-Regular.woff2"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Thin.woff",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Thin.woff",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Fonts/GT-Walsheim-Thin#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Fonts\\GT-Walsheim-Thin.woff"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Thin.woff2",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Thin.woff2",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Fonts/GT-Walsheim-Thin#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Fonts\\GT-Walsheim-Thin.woff2"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\PTSerif-Bold.woff",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\PTSerif-Bold.woff",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Fonts/PTSerif-Bold#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Fonts\\PTSerif-Bold.woff"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\SourceSansPro-Bold.woff",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\SourceSansPro-Bold.woff",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Fonts/SourceSansPro-Bold#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Fonts\\SourceSansPro-Bold.woff"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\SourceSansPro-Light.woff",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\SourceSansPro-Light.woff",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Fonts/SourceSansPro-Light#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -1235,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Fonts\\SourceSansPro-Light.woff"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\SourceSansPro-Regular.woff",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\SourceSansPro-Regular.woff",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Fonts/SourceSansPro-Regular#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -1256,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Fonts\\SourceSansPro-Regular.woff"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\404.jpg",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\404.jpg",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Images/404#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\404.jpg"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\bg.jpg",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\bg.jpg",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Images/bg#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1298,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\bg.jpg"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\cup.png",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\cup.png",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Images/cup#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1319,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\cup.png"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\default-avatar.png",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\default-avatar.png",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Images/default-avatar#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\default-avatar.png"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\favicon.svg",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\favicon.svg",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Images/favicon#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\favicon.svg"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\logo.svg",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\logo.svg",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Images/logo#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\logo.svg"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\plant-1.png",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\plant-1.png",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Images/plant-1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\plant-1.png"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\plant-2.png",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\plant-2.png",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Images/plant-2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\plant-2.png"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\plant-3.png",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\plant-3.png",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Images/plant-3#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\plant-3.png"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\plant-4.png",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\plant-4.png",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Images/plant-4#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\plant-4.png"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Buttons.less",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Buttons.less",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Styles/Buttons#[.{fingerprint}]?.less",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Styles\\Buttons.less"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Controls.less",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Controls.less",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Styles/Controls#[.{fingerprint}]?.less",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Styles\\Controls.less"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Fonts.less",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Fonts.less",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Styles/Fonts#[.{fingerprint}]?.less",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Styles\\Fonts.less"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Form.less",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Form.less",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Styles/Form#[.{fingerprint}]?.less",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Styles\\Form.less"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Grid.less",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Grid.less",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Styles/Grid#[.{fingerprint}]?.less",
       "AssetKind": "All",
@@ -1571,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Styles\\Grid.less"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\icons-core.less",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\icons-core.less",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Styles/icons-core#[.{fingerprint}]?.less",
       "AssetKind": "All",
@@ -1592,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Styles\\icons-core.less"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Landing-page.css",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Landing-page.css",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Styles/Landing-page#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Styles\\Landing-page.css"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Landing-page.less",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Landing-page.less",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Styles/Landing-page#[.{fingerprint}]?.less",
       "AssetKind": "All",
@@ -1634,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Styles\\Landing-page.less"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Menu.less",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Menu.less",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Styles/Menu#[.{fingerprint}]?.less",
       "AssetKind": "All",
@@ -1655,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Styles\\Menu.less"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Mixins.less",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Mixins.less",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Styles/Mixins#[.{fingerprint}]?.less",
       "AssetKind": "All",
@@ -1676,10 +1676,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Styles\\Mixins.less"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Products.less",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Products.less",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Styles/Products#[.{fingerprint}]?.less",
       "AssetKind": "All",
@@ -1697,10 +1697,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Styles\\Products.less"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Reset.less",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Reset.less",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Styles/Reset#[.{fingerprint}]?.less",
       "AssetKind": "All",
@@ -1718,10 +1718,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Styles\\Reset.less"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Sections.less",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Sections.less",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Styles/Sections#[.{fingerprint}]?.less",
       "AssetKind": "All",
@@ -1739,10 +1739,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Styles\\Sections.less"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Site.css",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Site.css",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Styles/Site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1760,10 +1760,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Styles\\Site.css"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Site.less",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Site.less",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Styles/Site#[.{fingerprint}]?.less",
       "AssetKind": "All",
@@ -1781,10 +1781,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Styles\\Site.less"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\TrackingConsent.less",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\TrackingConsent.less",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Styles/TrackingConsent#[.{fingerprint}]?.less",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Styles\\TrackingConsent.less"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\variables.less",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\variables.less",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Content/Styles/variables#[.{fingerprint}]?.less",
       "AssetKind": "All",
@@ -1823,10 +1823,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Styles\\variables.less"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\PageBuilder\\Admin\\InlineEditors\\ColorPickerEditor\\ColorPickerEditor.css",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\PageBuilder\\Admin\\InlineEditors\\ColorPickerEditor\\ColorPickerEditor.css",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "PageBuilder/Admin/InlineEditors/ColorPickerEditor/ColorPickerEditor#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1844,10 +1844,10 @@
       "OriginalItemSpec": "wwwroot\\PageBuilder\\Admin\\InlineEditors\\ColorPickerEditor\\ColorPickerEditor.css"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\PageBuilder\\Admin\\InlineEditors\\ColorPickerEditor\\color-picker-editor.js",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\PageBuilder\\Admin\\InlineEditors\\ColorPickerEditor\\color-picker-editor.js",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "PageBuilder/Admin/InlineEditors/ColorPickerEditor/color-picker-editor#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1865,10 +1865,10 @@
       "OriginalItemSpec": "wwwroot\\PageBuilder\\Admin\\InlineEditors\\ColorPickerEditor\\color-picker-editor.js"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\PageBuilder\\Admin\\InlineEditors\\TextEditor\\TextEditor.css",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\PageBuilder\\Admin\\InlineEditors\\TextEditor\\TextEditor.css",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "PageBuilder/Admin/InlineEditors/TextEditor/TextEditor#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1886,10 +1886,10 @@
       "OriginalItemSpec": "wwwroot\\PageBuilder\\Admin\\InlineEditors\\TextEditor\\TextEditor.css"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\PageBuilder\\Admin\\InlineEditors\\TextEditor\\text-editor.js",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\PageBuilder\\Admin\\InlineEditors\\TextEditor\\text-editor.js",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "PageBuilder/Admin/InlineEditors/TextEditor/text-editor#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1907,10 +1907,10 @@
       "OriginalItemSpec": "wwwroot\\PageBuilder\\Admin\\InlineEditors\\TextEditor\\text-editor.js"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Scripts\\formAutoPost.js",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Scripts\\formAutoPost.js",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Scripts/formAutoPost#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1928,10 +1928,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\formAutoPost.js"
     },
     {
-      "Identity": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Scripts\\mobileMenu.js",
+      "Identity": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Scripts\\mobileMenu.js",
       "SourceId": "DancingGoatWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\XBYKPlugIn\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\",
       "BasePath": "_content/DancingGoatWebsite",
       "RelativePath": "Scripts/mobileMenu#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3173,7 +3173,7 @@
     },
     {
       "Route": "Content/Bundles/Admin/pageComponents.css",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Bundles\\Admin\\pageComponents.css",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Bundles\\Admin\\pageComponents.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3210,7 +3210,7 @@
     },
     {
       "Route": "Content/Bundles/Admin/pageComponents.heve0oi3ze.js",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Bundles\\Admin\\pageComponents.js",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Bundles\\Admin\\pageComponents.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3255,7 +3255,7 @@
     },
     {
       "Route": "Content/Bundles/Admin/pageComponents.js",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Bundles\\Admin\\pageComponents.js",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Bundles\\Admin\\pageComponents.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3292,7 +3292,7 @@
     },
     {
       "Route": "Content/Bundles/Admin/pageComponents.min.59x8ytnyhy.js",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Bundles\\Admin\\pageComponents.min.js",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Bundles\\Admin\\pageComponents.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3337,7 +3337,7 @@
     },
     {
       "Route": "Content/Bundles/Admin/pageComponents.min.css",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Bundles\\Admin\\pageComponents.min.css",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Bundles\\Admin\\pageComponents.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3374,7 +3374,7 @@
     },
     {
       "Route": "Content/Bundles/Admin/pageComponents.min.gz3w4qgxeg.css",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Bundles\\Admin\\pageComponents.min.css",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Bundles\\Admin\\pageComponents.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3419,7 +3419,7 @@
     },
     {
       "Route": "Content/Bundles/Admin/pageComponents.min.js",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Bundles\\Admin\\pageComponents.min.js",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Bundles\\Admin\\pageComponents.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3456,7 +3456,7 @@
     },
     {
       "Route": "Content/Bundles/Admin/pageComponents.z92t5dbdnj.css",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Bundles\\Admin\\pageComponents.css",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Bundles\\Admin\\pageComponents.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3501,7 +3501,7 @@
     },
     {
       "Route": "Content/Bundles/Public/pageComponents.5ipweew5fc.css",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Bundles\\Public\\pageComponents.css",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Bundles\\Public\\pageComponents.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3546,7 +3546,7 @@
     },
     {
       "Route": "Content/Bundles/Public/pageComponents.5ipweew5fc.js",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Bundles\\Public\\pageComponents.js",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Bundles\\Public\\pageComponents.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3591,7 +3591,7 @@
     },
     {
       "Route": "Content/Bundles/Public/pageComponents.css",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Bundles\\Public\\pageComponents.css",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Bundles\\Public\\pageComponents.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3628,7 +3628,7 @@
     },
     {
       "Route": "Content/Bundles/Public/pageComponents.js",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Bundles\\Public\\pageComponents.js",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Bundles\\Public\\pageComponents.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3665,7 +3665,7 @@
     },
     {
       "Route": "Content/Bundles/Public/pageComponents.min.5ipweew5fc.css",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Bundles\\Public\\pageComponents.min.css",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Bundles\\Public\\pageComponents.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3710,7 +3710,7 @@
     },
     {
       "Route": "Content/Bundles/Public/pageComponents.min.5ipweew5fc.js",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Bundles\\Public\\pageComponents.min.js",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Bundles\\Public\\pageComponents.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3755,7 +3755,7 @@
     },
     {
       "Route": "Content/Bundles/Public/pageComponents.min.css",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Bundles\\Public\\pageComponents.min.css",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Bundles\\Public\\pageComponents.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3792,7 +3792,7 @@
     },
     {
       "Route": "Content/Bundles/Public/pageComponents.min.js",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Bundles\\Public\\pageComponents.min.js",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Bundles\\Public\\pageComponents.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3829,7 +3829,7 @@
     },
     {
       "Route": "Content/Fonts/Core-icons.eot",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\Core-icons.eot",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\Core-icons.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3866,7 +3866,7 @@
     },
     {
       "Route": "Content/Fonts/Core-icons.htlzsbjkhq.svg",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\Core-icons.svg",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\Core-icons.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3911,7 +3911,7 @@
     },
     {
       "Route": "Content/Fonts/Core-icons.n2yxmvr944.woff",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\Core-icons.woff",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\Core-icons.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3956,7 +3956,7 @@
     },
     {
       "Route": "Content/Fonts/Core-icons.no0didw0e0.eot",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\Core-icons.eot",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\Core-icons.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4001,7 +4001,7 @@
     },
     {
       "Route": "Content/Fonts/Core-icons.rcunkjz54o.ttf",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\Core-icons.ttf",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\Core-icons.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4046,7 +4046,7 @@
     },
     {
       "Route": "Content/Fonts/Core-icons.svg",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\Core-icons.svg",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\Core-icons.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4083,7 +4083,7 @@
     },
     {
       "Route": "Content/Fonts/Core-icons.ttf",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\Core-icons.ttf",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\Core-icons.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4120,7 +4120,7 @@
     },
     {
       "Route": "Content/Fonts/Core-icons.woff",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\Core-icons.woff",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\Core-icons.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4157,7 +4157,7 @@
     },
     {
       "Route": "Content/Fonts/GT-Walsheim-Bold.17qt36bu0i.woff",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Bold.woff",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Bold.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4202,7 +4202,7 @@
     },
     {
       "Route": "Content/Fonts/GT-Walsheim-Bold.5739fyy1o3.woff2",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Bold.woff2",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Bold.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4247,7 +4247,7 @@
     },
     {
       "Route": "Content/Fonts/GT-Walsheim-Bold.woff",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Bold.woff",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Bold.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4284,7 +4284,7 @@
     },
     {
       "Route": "Content/Fonts/GT-Walsheim-Bold.woff2",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Bold.woff2",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Bold.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4321,7 +4321,7 @@
     },
     {
       "Route": "Content/Fonts/GT-Walsheim-Light.744zcd38i0.woff",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Light.woff",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Light.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4366,7 +4366,7 @@
     },
     {
       "Route": "Content/Fonts/GT-Walsheim-Light.9yf3c4q78d.woff2",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Light.woff2",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Light.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4411,7 +4411,7 @@
     },
     {
       "Route": "Content/Fonts/GT-Walsheim-Light.woff",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Light.woff",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Light.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4448,7 +4448,7 @@
     },
     {
       "Route": "Content/Fonts/GT-Walsheim-Light.woff2",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Light.woff2",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Light.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4485,7 +4485,7 @@
     },
     {
       "Route": "Content/Fonts/GT-Walsheim-Medium.g01vlnii81.woff2",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Medium.woff2",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Medium.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4530,7 +4530,7 @@
     },
     {
       "Route": "Content/Fonts/GT-Walsheim-Medium.jonpctndog.woff",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Medium.woff",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Medium.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4575,7 +4575,7 @@
     },
     {
       "Route": "Content/Fonts/GT-Walsheim-Medium.woff",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Medium.woff",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Medium.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4612,7 +4612,7 @@
     },
     {
       "Route": "Content/Fonts/GT-Walsheim-Medium.woff2",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Medium.woff2",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Medium.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4649,7 +4649,7 @@
     },
     {
       "Route": "Content/Fonts/GT-Walsheim-Regular.hkg2ooaepm.woff2",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Regular.woff2",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Regular.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4694,7 +4694,7 @@
     },
     {
       "Route": "Content/Fonts/GT-Walsheim-Regular.woff",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Regular.woff",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Regular.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4731,7 +4731,7 @@
     },
     {
       "Route": "Content/Fonts/GT-Walsheim-Regular.woff2",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Regular.woff2",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Regular.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4768,7 +4768,7 @@
     },
     {
       "Route": "Content/Fonts/GT-Walsheim-Regular.zn4dasuj6y.woff",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Regular.woff",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Regular.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4813,7 +4813,7 @@
     },
     {
       "Route": "Content/Fonts/GT-Walsheim-Thin.1aoqf25747.woff",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Thin.woff",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Thin.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4858,7 +4858,7 @@
     },
     {
       "Route": "Content/Fonts/GT-Walsheim-Thin.cwvalbw6bb.woff2",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Thin.woff2",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Thin.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4903,7 +4903,7 @@
     },
     {
       "Route": "Content/Fonts/GT-Walsheim-Thin.woff",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Thin.woff",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Thin.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4940,7 +4940,7 @@
     },
     {
       "Route": "Content/Fonts/GT-Walsheim-Thin.woff2",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\GT-Walsheim-Thin.woff2",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\GT-Walsheim-Thin.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4977,7 +4977,7 @@
     },
     {
       "Route": "Content/Fonts/PTSerif-Bold.dftlol1yum.woff",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\PTSerif-Bold.woff",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\PTSerif-Bold.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5022,7 +5022,7 @@
     },
     {
       "Route": "Content/Fonts/PTSerif-Bold.woff",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\PTSerif-Bold.woff",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\PTSerif-Bold.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5059,7 +5059,7 @@
     },
     {
       "Route": "Content/Fonts/SourceSansPro-Bold.2qyj1zdbja.woff",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\SourceSansPro-Bold.woff",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\SourceSansPro-Bold.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5104,7 +5104,7 @@
     },
     {
       "Route": "Content/Fonts/SourceSansPro-Bold.woff",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\SourceSansPro-Bold.woff",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\SourceSansPro-Bold.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5141,7 +5141,7 @@
     },
     {
       "Route": "Content/Fonts/SourceSansPro-Light.gsqt9of60s.woff",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\SourceSansPro-Light.woff",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\SourceSansPro-Light.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5186,7 +5186,7 @@
     },
     {
       "Route": "Content/Fonts/SourceSansPro-Light.woff",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\SourceSansPro-Light.woff",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\SourceSansPro-Light.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5223,7 +5223,7 @@
     },
     {
       "Route": "Content/Fonts/SourceSansPro-Regular.6c4y0gg2i7.woff",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\SourceSansPro-Regular.woff",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\SourceSansPro-Regular.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5268,7 +5268,7 @@
     },
     {
       "Route": "Content/Fonts/SourceSansPro-Regular.woff",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Fonts\\SourceSansPro-Regular.woff",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Fonts\\SourceSansPro-Regular.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5305,7 +5305,7 @@
     },
     {
       "Route": "Content/Images/404.dli70des51.jpg",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\404.jpg",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\404.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5350,7 +5350,7 @@
     },
     {
       "Route": "Content/Images/404.jpg",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\404.jpg",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\404.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5387,7 +5387,7 @@
     },
     {
       "Route": "Content/Images/bg.6rqs23swyh.jpg",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\bg.jpg",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\bg.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5432,7 +5432,7 @@
     },
     {
       "Route": "Content/Images/bg.jpg",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\bg.jpg",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\bg.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5469,7 +5469,7 @@
     },
     {
       "Route": "Content/Images/cup.f3f66o9ak2.png",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\cup.png",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\cup.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5514,7 +5514,7 @@
     },
     {
       "Route": "Content/Images/cup.png",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\cup.png",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\cup.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5551,7 +5551,7 @@
     },
     {
       "Route": "Content/Images/default-avatar.fs99zop886.png",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\default-avatar.png",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\default-avatar.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5596,7 +5596,7 @@
     },
     {
       "Route": "Content/Images/default-avatar.png",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\default-avatar.png",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\default-avatar.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5633,7 +5633,7 @@
     },
     {
       "Route": "Content/Images/favicon.4ij4ocxq8w.svg",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\favicon.svg",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\favicon.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5678,7 +5678,7 @@
     },
     {
       "Route": "Content/Images/favicon.svg",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\favicon.svg",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\favicon.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5715,7 +5715,7 @@
     },
     {
       "Route": "Content/Images/logo.93n9qd49q9.svg",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\logo.svg",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\logo.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5760,7 +5760,7 @@
     },
     {
       "Route": "Content/Images/logo.svg",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\logo.svg",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\logo.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5797,7 +5797,7 @@
     },
     {
       "Route": "Content/Images/plant-1.png",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\plant-1.png",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\plant-1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5834,7 +5834,7 @@
     },
     {
       "Route": "Content/Images/plant-1.pwqypz49ud.png",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\plant-1.png",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\plant-1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5879,7 +5879,7 @@
     },
     {
       "Route": "Content/Images/plant-2.3p1z66h8zc.png",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\plant-2.png",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\plant-2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5924,7 +5924,7 @@
     },
     {
       "Route": "Content/Images/plant-2.png",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\plant-2.png",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\plant-2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5961,7 +5961,7 @@
     },
     {
       "Route": "Content/Images/plant-3.nv1lyj7p1b.png",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\plant-3.png",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\plant-3.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6006,7 +6006,7 @@
     },
     {
       "Route": "Content/Images/plant-3.png",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\plant-3.png",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\plant-3.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6043,7 +6043,7 @@
     },
     {
       "Route": "Content/Images/plant-4.png",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\plant-4.png",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\plant-4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6080,7 +6080,7 @@
     },
     {
       "Route": "Content/Images/plant-4.uny8epc2a7.png",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Images\\plant-4.png",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Images\\plant-4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6125,7 +6125,7 @@
     },
     {
       "Route": "Content/Styles/Buttons.ce9xgwzg7q.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Buttons.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Buttons.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6170,7 +6170,7 @@
     },
     {
       "Route": "Content/Styles/Buttons.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Buttons.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Buttons.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6207,7 +6207,7 @@
     },
     {
       "Route": "Content/Styles/Controls.9ddzgpar47.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Controls.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Controls.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6252,7 +6252,7 @@
     },
     {
       "Route": "Content/Styles/Controls.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Controls.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Controls.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6289,7 +6289,7 @@
     },
     {
       "Route": "Content/Styles/Fonts.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Fonts.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Fonts.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6326,7 +6326,7 @@
     },
     {
       "Route": "Content/Styles/Fonts.qpetc1ddgc.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Fonts.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Fonts.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6371,7 +6371,7 @@
     },
     {
       "Route": "Content/Styles/Form.9c04oqmfq5.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Form.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Form.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6416,7 +6416,7 @@
     },
     {
       "Route": "Content/Styles/Form.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Form.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Form.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6453,7 +6453,7 @@
     },
     {
       "Route": "Content/Styles/Grid.gs9hrp4ofm.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Grid.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Grid.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6498,7 +6498,7 @@
     },
     {
       "Route": "Content/Styles/Grid.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Grid.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Grid.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6535,7 +6535,7 @@
     },
     {
       "Route": "Content/Styles/icons-core.1jrzz0poe4.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\icons-core.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\icons-core.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6580,7 +6580,7 @@
     },
     {
       "Route": "Content/Styles/icons-core.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\icons-core.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\icons-core.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6617,7 +6617,7 @@
     },
     {
       "Route": "Content/Styles/Landing-page.8lm1f81kng.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Landing-page.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Landing-page.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6662,7 +6662,7 @@
     },
     {
       "Route": "Content/Styles/Landing-page.css",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Landing-page.css",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Landing-page.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6699,7 +6699,7 @@
     },
     {
       "Route": "Content/Styles/Landing-page.domqdfkla8.css",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Landing-page.css",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Landing-page.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6744,7 +6744,7 @@
     },
     {
       "Route": "Content/Styles/Landing-page.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Landing-page.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Landing-page.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6781,7 +6781,7 @@
     },
     {
       "Route": "Content/Styles/Menu.958sjjiquw.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Menu.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Menu.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6826,7 +6826,7 @@
     },
     {
       "Route": "Content/Styles/Menu.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Menu.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Menu.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6863,7 +6863,7 @@
     },
     {
       "Route": "Content/Styles/Mixins.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Mixins.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Mixins.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6900,7 +6900,7 @@
     },
     {
       "Route": "Content/Styles/Mixins.vyyu4hd9p2.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Mixins.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Mixins.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6945,7 +6945,7 @@
     },
     {
       "Route": "Content/Styles/Products.an9yo4mb4s.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Products.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Products.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6990,7 +6990,7 @@
     },
     {
       "Route": "Content/Styles/Products.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Products.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Products.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7027,7 +7027,7 @@
     },
     {
       "Route": "Content/Styles/Reset.4e80koul4o.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Reset.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Reset.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7072,7 +7072,7 @@
     },
     {
       "Route": "Content/Styles/Reset.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Reset.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Reset.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7109,7 +7109,7 @@
     },
     {
       "Route": "Content/Styles/Sections.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Sections.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Sections.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7146,7 +7146,7 @@
     },
     {
       "Route": "Content/Styles/Sections.td2qf4dm72.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Sections.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Sections.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7191,7 +7191,7 @@
     },
     {
       "Route": "Content/Styles/Site.2h8nneznuf.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Site.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Site.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7236,7 +7236,7 @@
     },
     {
       "Route": "Content/Styles/Site.4ogpw4eh3e.css",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Site.css",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7281,7 +7281,7 @@
     },
     {
       "Route": "Content/Styles/Site.css",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Site.css",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7318,7 +7318,7 @@
     },
     {
       "Route": "Content/Styles/Site.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\Site.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\Site.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7355,7 +7355,7 @@
     },
     {
       "Route": "Content/Styles/TrackingConsent.84lxtv7j3z.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\TrackingConsent.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\TrackingConsent.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7400,7 +7400,7 @@
     },
     {
       "Route": "Content/Styles/TrackingConsent.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\TrackingConsent.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\TrackingConsent.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7437,7 +7437,7 @@
     },
     {
       "Route": "Content/Styles/variables.aktysbvwix.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\variables.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\variables.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7482,7 +7482,7 @@
     },
     {
       "Route": "Content/Styles/variables.less",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Content\\Styles\\variables.less",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Content\\Styles\\variables.less",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7519,7 +7519,7 @@
     },
     {
       "Route": "PageBuilder/Admin/InlineEditors/ColorPickerEditor/color-picker-editor.18wbp1wof4.js",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\PageBuilder\\Admin\\InlineEditors\\ColorPickerEditor\\color-picker-editor.js",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\PageBuilder\\Admin\\InlineEditors\\ColorPickerEditor\\color-picker-editor.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7564,7 +7564,7 @@
     },
     {
       "Route": "PageBuilder/Admin/InlineEditors/ColorPickerEditor/ColorPickerEditor.css",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\PageBuilder\\Admin\\InlineEditors\\ColorPickerEditor\\ColorPickerEditor.css",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\PageBuilder\\Admin\\InlineEditors\\ColorPickerEditor\\ColorPickerEditor.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7601,7 +7601,7 @@
     },
     {
       "Route": "PageBuilder/Admin/InlineEditors/ColorPickerEditor/color-picker-editor.js",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\PageBuilder\\Admin\\InlineEditors\\ColorPickerEditor\\color-picker-editor.js",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\PageBuilder\\Admin\\InlineEditors\\ColorPickerEditor\\color-picker-editor.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7638,7 +7638,7 @@
     },
     {
       "Route": "PageBuilder/Admin/InlineEditors/ColorPickerEditor/ColorPickerEditor.yf1ef2lu4z.css",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\PageBuilder\\Admin\\InlineEditors\\ColorPickerEditor\\ColorPickerEditor.css",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\PageBuilder\\Admin\\InlineEditors\\ColorPickerEditor\\ColorPickerEditor.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7683,7 +7683,7 @@
     },
     {
       "Route": "PageBuilder/Admin/InlineEditors/TextEditor/TextEditor.css",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\PageBuilder\\Admin\\InlineEditors\\TextEditor\\TextEditor.css",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\PageBuilder\\Admin\\InlineEditors\\TextEditor\\TextEditor.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7720,7 +7720,7 @@
     },
     {
       "Route": "PageBuilder/Admin/InlineEditors/TextEditor/text-editor.js",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\PageBuilder\\Admin\\InlineEditors\\TextEditor\\text-editor.js",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\PageBuilder\\Admin\\InlineEditors\\TextEditor\\text-editor.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7757,7 +7757,7 @@
     },
     {
       "Route": "PageBuilder/Admin/InlineEditors/TextEditor/TextEditor.y7dwg63dzn.css",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\PageBuilder\\Admin\\InlineEditors\\TextEditor\\TextEditor.css",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\PageBuilder\\Admin\\InlineEditors\\TextEditor\\TextEditor.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7802,7 +7802,7 @@
     },
     {
       "Route": "PageBuilder/Admin/InlineEditors/TextEditor/text-editor.zlx7en96fk.js",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\PageBuilder\\Admin\\InlineEditors\\TextEditor\\text-editor.js",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\PageBuilder\\Admin\\InlineEditors\\TextEditor\\text-editor.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7847,7 +7847,7 @@
     },
     {
       "Route": "Scripts/formAutoPost.js",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Scripts\\formAutoPost.js",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Scripts\\formAutoPost.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7884,7 +7884,7 @@
     },
     {
       "Route": "Scripts/formAutoPost.vign2z9g7y.js",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Scripts\\formAutoPost.js",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Scripts\\formAutoPost.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7929,7 +7929,7 @@
     },
     {
       "Route": "Scripts/mobileMenu.js",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Scripts\\mobileMenu.js",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Scripts\\mobileMenu.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7966,7 +7966,7 @@
     },
     {
       "Route": "Scripts/mobileMenu.olmu7prz5e.js",
-      "AssetFile": "D:\\Projects\\XBYKPlugIn\\wwwroot\\Scripts\\mobileMenu.js",
+      "AssetFile": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\wwwroot\\Scripts\\mobileMenu.js",
       "Selectors": [],
       "ResponseHeaders": [
         {

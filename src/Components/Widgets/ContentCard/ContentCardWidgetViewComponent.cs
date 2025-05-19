@@ -5,7 +5,6 @@ using CMS.MediaLibrary;
 
 using Kentico.Content.Web.Mvc.Routing;
 using Kentico.PageBuilder.Web.Mvc;
-using Kentico.Xperience.Custom.Widgets.Card;
 using Kentico.Xperience.Custom.Widgets.Components.Widgets.ContentCard;
 
 using Microsoft.AspNetCore.Mvc;

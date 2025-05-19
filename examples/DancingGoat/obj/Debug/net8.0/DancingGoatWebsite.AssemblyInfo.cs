@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DancingGoatWebsite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffd80a8e6835ba92cd6122217474d3826c2aee97")]
 [assembly: System.Reflection.AssemblyProductAttribute("DancingGoatWebsite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DancingGoatWebsite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

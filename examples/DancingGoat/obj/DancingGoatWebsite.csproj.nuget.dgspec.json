@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\XBYKPlugIn\\DancingGoatWebsite.csproj": {}
+    "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\DancingGoatWebsite.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\XBYKPlugIn\\DancingGoatWebsite.csproj": {
+    "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\DancingGoatWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\XBYKPlugIn\\DancingGoatWebsite.csproj",
+        "projectUniqueName": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\DancingGoatWebsite.csproj",
         "projectName": "DancingGoatWebsite",
-        "projectPath": "D:\\Projects\\XBYKPlugIn\\DancingGoatWebsite.csproj",
+        "projectPath": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\DancingGoatWebsite.csproj",
         "packagesPath": "C:\\Users\\Vasu\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\XBYKPlugIn\\obj\\",
+        "outputPath": "D:\\Projects\\XBYK\\CustomWidgets\\xperience-by-kentico-custom-widgets\\examples\\DancingGoat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

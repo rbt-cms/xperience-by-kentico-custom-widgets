@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute("It displays map obtained from the Google maps service using Latitude,Longitude an" +
     "d Google API Key.\r\n")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffd80a8e6835ba92cd6122217474d3826c2aee97")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kentico.Xperience.Custom.Widgets")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kentico.Xperience.Custom.Widgets")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
